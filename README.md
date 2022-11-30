@@ -1,4 +1,4 @@
-# API Automation // Selenium
+# API Automation // Selenium Server
 This repo includes external restful apis' automation for multiple business objects.
 
 TECHNOLOGY
