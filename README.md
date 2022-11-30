@@ -5,4 +5,4 @@ TECHNOLOGY
 - Java
 - Selenium 4.1.0
 - Remote Selenium Webdriver / Grid
-- Selenium Server
+- Selenium Server 4.6.0
